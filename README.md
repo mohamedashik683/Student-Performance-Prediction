@@ -46,3 +46,6 @@ Install the required libraries:
 
 ```bash
 pip install pandas scikit-learn streamlit
+## 🚀 Live Demo
+
+[Click here to try the Student Performance Prediction App](https://student-performance-prediction-8n9kucq3jqua9fdytchmhz.streamlit.app/)
